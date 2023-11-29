@@ -12,7 +12,7 @@ Passos a passo para utilizar o site:
 
 3- Ainda no aplicativo XAMPP clique  em "admin" na aba do "mysql" e você será redirecionado para o site "php myadmin";
 
-4- Ainda no site clique na aba "importar" e importe o arquivo "CadastroBD.sql";
+4- No site, clique na aba "importar" e importe o arquivo "CadastroBD.sql";
 
 5- Após fazer issso o banco de dados "cadastro" com a tabela "usuarios" será instalada;
 
