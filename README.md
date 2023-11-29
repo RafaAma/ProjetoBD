@@ -14,7 +14,7 @@ Passos a passo para utilizar o site:
 
 4- No site, clique na aba "importar" e importe o arquivo "CadastroBD.sql";
 
-5- Após fazer issso o banco de dados "cadastro" com a tabela "usuarios" será instalada;
+5- Após fazer isso o banco de dados "cadastro" com a tabela "usuarios" será instalada;
 
 6- Com o banco de dados instalado você pode pesquisar em seu navegador "localhost/ProjetoBD/", assim, abrindo o nosso site de cadastro;
 
